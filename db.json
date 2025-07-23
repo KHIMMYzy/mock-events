@@ -65,6 +65,19 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+
+    {
+      "id": 1004,
+      "category": "education",
+      "title": "Intro to Software Engineering",
+      "description": "Learn the basics of software engineering, version control, and teamwork.",
+      "location": "CMU Tech Hall",
+      "date": "August 1, 2025",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Khim Dev Club"
     }
+
   ]
 }
